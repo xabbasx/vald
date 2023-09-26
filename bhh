@@ -6,7 +6,7 @@ Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 Finding a bug  1 bug = 100 points
 ----------------------
 
-sudo apt update && apt upgrade -y
+
 ---------------------------------------
 sudo apt install build-essential g++ make
 ------------------------------------
