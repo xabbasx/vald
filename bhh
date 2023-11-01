@@ -3,7 +3,7 @@ Send Asset  200 points per transaction  Weekly limit = 1
 Hosting a node 12 hours of continuous uptime = 10 points
 Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 Finding a bug  1
----------------om/setup_18.x | sudo -E bash - &&\
+---------------om/setup_18.x | sudo 
 sudo apt-get install -y nodejs
 =============================
 sudo npm install -g ironfish
