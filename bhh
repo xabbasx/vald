@@ -4,7 +4,7 @@ Hosting a node 12 hours of continuous uptime = 10 points
 Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 ----------------------------------
 ufw allow ssh
-ufw allow 9033
+ufw allow 903
 ufw enabl
 -------------------------------
 ironfish testnet        
