@@ -6,7 +6,7 @@ Pull a request  Small = 250 points  Medium = 500 points  Large = 1000 points
 ufw allow ssh
 ufw allow
 ufw enabl
--------------------------------
+-----------------------------
 ironfish testnet        
 --------------------
 ironfish start    این کد حدودا بین ده دقیقه تا نیم ساعت زمان نیاز دارد تا کامل اجرا ------------------------
