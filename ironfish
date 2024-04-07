@@ -10,7 +10,7 @@ ufw ena
 ironfish testnet        f
 ------------------
 ironfish start    این کد حدودا بین ده دقیقه تا نیم ساعت زمان نیاز دارد تا کامل اجرا --------------------
-ironfish status -
+ironfish status 
 -------------------------
 ironfish wallet:accounts
 ------------------------------
