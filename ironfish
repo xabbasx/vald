@@ -24,7 +24,7 @@ ironfish wallet:balance
 -----------------------
 ironfish wallet:mint  
 ------------------------
-ironfish wallet:burn
+ironfish wallet:b
 ---------------------
 ironfish wallet:send       8dfe4615bd8cd6f0b657afd7ae3cbcab11ce918740678492425f518148e54087
 -----------------
